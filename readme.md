@@ -1,0 +1,1 @@
+Near fungible token customized
