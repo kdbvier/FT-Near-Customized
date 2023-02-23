@@ -1,7 +1,7 @@
 [package]
-name = "reserve-token"
+name = "near_ft"
 version = "0.1.0"
-authors = ["Illia Polosukhin <illia.polosukhin@gmail.com>"]
+authors = ["Vier <kdbvier@gmail.com>"]
 edition = "2018"
 publish = false
 
